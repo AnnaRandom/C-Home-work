@@ -1,0 +1,5 @@
+C:\Repo\C# Homework\Ex005\obj\Debug\net6.0\Ex005.csproj.AssemblyReference.cache
+C:\Repo\C# Homework\Ex005\obj\Debug\net6.0\Ex005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\C# Homework\Ex005\obj\Debug\net6.0\Ex005.AssemblyInfoInputs.cache
+C:\Repo\C# Homework\Ex005\obj\Debug\net6.0\Ex005.AssemblyInfo.cs
+C:\Repo\C# Homework\Ex005\obj\Debug\net6.0\Ex005.csproj.CoreCompileInputs.cache

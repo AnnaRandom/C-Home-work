@@ -1,0 +1,11 @@
+alternative
+int day = 7;
+string[] days = {"Пн", "Вт", "Ср", "Чтв", "Пт", "Суб", "Воскр"};
+if (day >= 1 && day <= 7 )
+{
+Console.WriteLine (days [day - 1]);
+}
+else
+{
+    Console.WriteLine ("No such day exist");
+}

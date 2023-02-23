@@ -1,0 +1,15 @@
+C:\Repo\C# Homework\Task08\bin\Debug\net6.0\Task08.exe
+C:\Repo\C# Homework\Task08\bin\Debug\net6.0\Task08.deps.json
+C:\Repo\C# Homework\Task08\bin\Debug\net6.0\Task08.runtimeconfig.json
+C:\Repo\C# Homework\Task08\bin\Debug\net6.0\Task08.dll
+C:\Repo\C# Homework\Task08\bin\Debug\net6.0\Task08.pdb
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.csproj.AssemblyReference.cache
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.AssemblyInfoInputs.cache
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.AssemblyInfo.cs
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.csproj.CoreCompileInputs.cache
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.dll
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\refint\Task08.dll
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.pdb
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\Task08.genruntimeconfig.cache
+C:\Repo\C# Homework\Task08\obj\Debug\net6.0\ref\Task08.dll
