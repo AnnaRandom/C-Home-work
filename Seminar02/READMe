@@ -1,0 +1,7 @@
+работа с генерацией цифр
+int count = 10;
+ while (count-->0)
+ {
+    double val = new Random().Next(0,1000)/100.0;
+    Console.Write(val = " ");
+ }
