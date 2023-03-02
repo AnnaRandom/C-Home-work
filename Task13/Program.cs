@@ -5,7 +5,42 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-Console.WriteLine("Введите число ");
-int value = Console.Readline();
-Console.Write("Привет, ");
-Console.Write(value);
+
+int countDigits(int num)
+{
+   int count = 0;
+   while (num > 0)
+   {
+      num = num / 10;
+      count++;
+   }
+   return count;
+   // return (int)Math.Log10(num) + 1;
+}
+void fillWithNumbers(int[] array, int size, int num)
+{
+   int index = size - 1;
+   while (index >= 0)
+   {
+      array[index] = num % 10;
+      num = num / 10;
+      index -= 1;
+   }
+}
+
+Console.WriteLine("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+// int number = new Random().Next(100, 2147483647);
+// Console.WriteLine(number);
+int lenght = countDigits(number);
+
+if (number > 99)
+{
+   int[] mass = new int[lenght];
+   fillWithNumbers(mass, lenght, number);
+   Console.WriteLine(mass[2]);
+}
+else
+{
+   Console.WriteLine("Третьей цифры нет");
+}

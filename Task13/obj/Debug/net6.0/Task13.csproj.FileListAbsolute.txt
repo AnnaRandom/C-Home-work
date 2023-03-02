@@ -3,3 +3,13 @@ C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.
 C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
 C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
 C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Repo\C# Homework\Task13\bin\Debug\net6.0\Task13.exe
+C:\Repo\C# Homework\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Repo\C# Homework\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Repo\C# Homework\Task13\bin\Debug\net6.0\Task13.dll
+C:\Repo\C# Homework\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.dll
+C:\Repo\C# Homework\Task13\obj\Debug\net6.0\refint\Task13.dll
+C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Repo\C# Homework\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+C:\Repo\C# Homework\Task13\obj\Debug\net6.0\ref\Task13.dll
