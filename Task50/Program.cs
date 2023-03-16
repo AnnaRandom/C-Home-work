@@ -46,7 +46,7 @@ string CheckPosition(int[,] martix, int lines, int columns)
 {
    if (lines > martix.GetLength(0) - 1 || columns > martix.GetLength(1) - 1)
    {
-      return "Элемента c такой позицией в массиве нет";
+      return "Такого элемента нет";
    }
    else return $"{martix[lines, columns]}";
 }
